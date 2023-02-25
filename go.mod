@@ -10,6 +10,6 @@ require (
 	github.com/mattn/go-isatty v0.0.9 // indirect
 	github.com/satori/go.uuid v1.2.0
 	github.com/ugorji/go v1.1.7 // indirect
-	golang.org/x/sys v0.0.0-20191002091554-b397fe3ad8ed // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.2.3 // indirect
 )
